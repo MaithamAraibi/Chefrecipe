@@ -4,13 +4,13 @@
 ## Acknowledgements
 
 To our instructors Saad, Alex, and Summaya for their assist and gurance. 
-Special thanks to our classmates for their inputs.
+Special thanks to our classmates for their inputs. Special thanks to Najim's sense of humor.
 
 
 ## Author
 - Jassim Dhaif - Backend: MongoDB, Embeded JS, JS
 - Juma Altaiton - Forntend, Embeded JS, JS, CSS
-- Maitham Alaraibi - Frontend, Embeded JS, CSS, JS 
+- Maitham Alaraibi - Frontend, Embeded JS, CSS,
 
 ## User story
 -Build a website for chef to include pages about: recipes, contact and signup/signin. 
@@ -54,3 +54,9 @@ Contact US Page:
 ## Sample 5
 Add Recipe Page: 
 ![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/5.png "Logo Title Text 1")
+
+
+# Moving forward
+- Adding videos
+- health blog on food and blood.
+- Outdoor events.
