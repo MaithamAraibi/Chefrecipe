@@ -33,27 +33,27 @@ Special thanks to our classmates for their inputs. Special thanks to Najim's sen
 
 ## Sample 1
 About US Page: 
-![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/4.png "Logo Title Text 1")
+!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/4.png)
 
 
 ## Sample 2
 Blog page: 
-![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe1.png "Logo Title Text 1")
+!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe1.png)
 
 
 ## Sample 3
 Recipe Page: 
-![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe2.png "Logo Title Text 1")
+!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe2.png)
 
 
 ## Sample 4
 Contact US Page: 
-![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe3.png "Logo Title Text 1")
+!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe3.png)
 
 
 ## Sample 5
 Add Recipe Page: 
-![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe5.png "Logo Title Text 1")
+!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe5.png)
 
 
 # Moving forward
