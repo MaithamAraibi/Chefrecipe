@@ -3,6 +3,7 @@
     "bcrypt": "^5.1.0",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.2",
+    "cyclic": "^0.2.1",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
@@ -25,7 +26,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://git.generalassemb.ly/jasimdhaif/JJM_.git"
+    "url": "https://github.com/MaithamAraibi/JJM_.git"
   },
   "keywords": [],
   "author": "",
