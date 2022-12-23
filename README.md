@@ -33,27 +33,27 @@ Special thanks to our classmates for their inputs. Special thanks to Najim's sen
 
 ## Sample 1
 About US Page: 
-![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/4.png "Logo Title Text 1")
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/4.png "Logo Title Text 1")
 
 
 ## Sample 2
 Blog page: 
-![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/1.png "Logo Title Text 1")
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe1.png "Logo Title Text 1")
 
 
 ## Sample 3
 Recipe Page: 
-![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/2.png "Logo Title Text 1")
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe2.png "Logo Title Text 1")
 
 
 ## Sample 4
 Contact US Page: 
-![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/3.png "Logo Title Text 1")
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe3.png "Logo Title Text 1")
 
 
 ## Sample 5
 Add Recipe Page: 
-![alt text](https://git.generalassemb.ly/santamew/JJM_/blob/master/wireframe/5.png "Logo Title Text 1")
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe5.png "Logo Title Text 1")
 
 
 # Moving forward
