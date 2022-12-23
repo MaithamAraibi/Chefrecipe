@@ -8,10 +8,10 @@ Special thanks to our classmates for their inputs. Special thanks to Najim's sen
 
 
 ## Author
-- Jassim Dhaif - Backend: MongoDB, Embeded JS, JS
-- Juma Altaiton - Forntend, Embeded JS, JS, CSS
-- Maitham Alaraibi - Frontend, Embeded JS, CSS,
-
+- Jassim Dhaif - Backend:bcrypt, ejs, dotenv,express, moment, nodemon, passport, passport-local, mongoose, MongoDB, Embeded JS, JS, express.
+- Juma Altaiton - Forntend, Embeded JS, JS, CSS.
+- Maitham Alaraibi - Frontend, Embeded JS, CSS.
+- Backend: bootstrap, bootstrap-icon
 ## User story
 -Build a website for chef to include pages about: recipes, contact and signup/signin. 
 -Make page to sign-in and sign-up for chef, user, and admin, so admin can controll the pages, chef can add recipes, user can view.
@@ -33,27 +33,27 @@ Special thanks to our classmates for their inputs. Special thanks to Najim's sen
 
 ## Sample 1
 About US Page: 
-!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/4.png)
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/4.png "Logo Title Text 1")
 
 
 ## Sample 2
 Blog page: 
-!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe1.png)
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/1.png "Logo Title Text 1")
 
 
 ## Sample 3
 Recipe Page: 
-!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe2.png)
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/2.png "Logo Title Text 1")
 
 
 ## Sample 4
 Contact US Page: 
-!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe3.png)
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/3.png "Logo Title Text 1")
 
 
 ## Sample 5
 Add Recipe Page: 
-!(https://github.com/MaithamAraibi/JJM_/tree/main/wireframe5.png)
+![alt text](https://github.com/MaithamAraibi/JJM_/tree/main/wireframe/5.png "Logo Title Text 1")
 
 
 # Moving forward
